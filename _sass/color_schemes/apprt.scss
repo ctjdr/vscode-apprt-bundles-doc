@@ -30,4 +30,8 @@ $body-font-family: "Open Sans",
 "Helvetica Neue",
 "Helvetica",
 Arial,
-sans-serif;
+sans-serif !default;
+$sidebar-color: #252525 !default;
+.nav-list-link.active {
+    background-image: none
+}
