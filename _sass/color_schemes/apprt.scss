@@ -1,3 +1,9 @@
+$body-font-family: "Open Sans",
+"Helvetica Neue",
+"Helvetica",
+Arial,
+sans-serif !default;
+$sidebar-color: #252525 !default;
 @font-face {
     font-family: "Open Sans";
     font-style: normal;
@@ -25,10 +31,3 @@
     font-weight: 400;
     src: local("Open Sans"), local("OpenSans"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/K88pR3goAWT7BTt32Z01mz8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
 }
-
-$body-font-family: "Open Sans",
-"Helvetica Neue",
-"Helvetica",
-Arial,
-sans-serif !default;
-$sidebar-color: #252525 !default;
