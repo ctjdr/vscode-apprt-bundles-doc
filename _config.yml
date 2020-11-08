@@ -3,7 +3,7 @@ color_scheme: apprt
 logo: "/images/boxes-v3.png"
 
 aux_links:
-  "GitHub Repo":
+  "GitHub Repo 1":
     - "//github.com/ctjdr/vscode-apprt-bundles"
 
 aux_links_new_tab: true
