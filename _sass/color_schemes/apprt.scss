@@ -4,10 +4,8 @@ $body-font-family: "Open Sans",
 Arial,
 sans-serif;
 $sidebar-color: #ffffff;
-.nav-list .nav-list-item .nav-list-link:hover,
-.nav-list .nav-list-item .nav-list-link.active {
+.nav-list-link.active {
     background-image: none;
-    font-weight: bold;
 }
 
 @font-face {
