@@ -6,7 +6,7 @@ sans-serif;
 $sidebar-color: #ffffff;
 .nav-list .nav-list-item .nav-list-link:hover,
 .nav-list .nav-list-item .nav-list-link.active {
-    background-image: none;
+    background-image: none !important;
 }
 
 #main-header {
