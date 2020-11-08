@@ -4,6 +4,10 @@ $body-font-family: "Open Sans",
 Arial,
 sans-serif;
 $sidebar-color: #252525;
+nav-list-link.active {
+    background-image: none;
+}
+
 @font-face {
     font-family: "Open Sans";
     font-style: normal;
