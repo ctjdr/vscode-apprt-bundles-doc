@@ -3,9 +3,11 @@ $body-font-family: "Open Sans",
 "Helvetica",
 Arial,
 sans-serif;
-$sidebar-color: #252525;
-nav-list-link.active {
+$sidebar-color: #ffffff;
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
+    font-weight: bold;
 }
 
 @font-face {
