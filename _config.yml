@@ -1,9 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
+color_scheme: apprt
 logo: "/images/feature_bundle_open01.png"
 
 aux_links:
-  "GitHub Repo":
+  "GitHub Repo 1":
     - "//github.com/ctjdr/vscode-apprt-bundles"
 
 aux_links_new_tab: true
