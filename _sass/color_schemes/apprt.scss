@@ -4,8 +4,13 @@ $body-font-family: "Open Sans",
 Arial,
 sans-serif;
 $sidebar-color: #ffffff;
-* a.nav-list-link.active {
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
+}
+
+#main-header {
+    background-color: #202020;
 }
 
 @font-face {
