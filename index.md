@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_exclude: true
+---
+
+_Version [v0.1.0](updates/v0.1.0.md) was released on Nov, 7th 2020!_
 
 # Visual Studio Code extension for apprt bundles
 

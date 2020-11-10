@@ -1,16 +1,48 @@
+$content-line-height: 1.5;
+$link-color: $green-300;
+// $search-background-color: $green-300;
+// $sidebar-color: #ffffff;
+// $body-text-color: $grey-dk-200;
+// .site-header {
+//     background-color: $green-300;
+//     width: none !important;
+// }
+// .search-input {
+//     background-color: $green-300 !important;
+// }
+// #main-header {
+//     background-color: $green-300;
+// }
+// $font-size-2: 16px; //h4 - uppercased!, h6 not uppercased, text-small
+// $font-size-5: 22px; //h3
+// $font-size-6: 30px; //h2
+// $font-size-8: 40px !important; //h1
+#main-content>h1 {
+    font-size: 40px !important;
+}
+
+#main-content>h2 {
+    font-size: 30px !important;
+    font-weight: 100;
+}
+
+#main-content>h3 {
+    font-size: 20px !important;
+    font-weight: 100;
+}
+
+#main-content>h4 {
+    font-size: 16px !important;
+}
+
 $body-font-family: "Open Sans",
 "Helvetica Neue",
 "Helvetica",
 Arial,
 sans-serif;
-$sidebar-color: #ffffff;
 .nav-list .nav-list-item .nav-list-link:hover,
 .nav-list .nav-list-item .nav-list-link.active {
     background-image: none !important;
-}
-
-#main-header {
-    background-color: #202020;
 }
 
 @font-face {

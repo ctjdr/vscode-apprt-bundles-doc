@@ -1,3 +1,9 @@
+---
+layout: default
+title: Changelog
+parent: Updates
+nav_order: 100
+---
 # Changelog
 
 ## 0.1.0 (2020-11-06)
