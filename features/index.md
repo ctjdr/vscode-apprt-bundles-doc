@@ -51,7 +51,7 @@ Creating a new `"compomnent"` with `"references"` will only take a few seconds.
 
 ### Service names: _provides_ & _providing_
 
-**References search**
+#### References search
 
 Search for references to the service name under the current cursor.
 Finds all occurences in other manifest.json files.
@@ -64,14 +64,14 @@ The search can be triggered by the following commands when your cursor is on a v
 
 ![Feature Demo](../images/feature_servicename_references.gif)
 
-**Auto-completion**
+#### Auto-completion
 
 Auto-complete lists all service names available in the current context, when typing a value for `"provides"` or `"providing"`.
 The list of service names is made up by all service names used in manifest.json files of the workspace (currently they are not taken from JAR files or other sources).
 
 ![Feature Demo](../images/feature_servicename_completion.gif)
 
-**CodeLenses**
+#### CodeLenses
 
 A CodeLens is displayed as either **Peek providers (x)** or **Peek consumers (y)** above any line containing a value for `"provides"` or `"providing"`.
 The code lens displays the number of known references (for `"provides"`) and the number of known services (for `"providing"`) specifying the same service name.
